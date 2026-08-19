@@ -1,6 +1,7 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useState, useTransition } from "react";
+import { useRouter, useSearchParams, usePathname } from "next/navigation";
 import FunctionCard from "@/components/FunctionCard";
 import type { JobFunction } from "@/types/job-function";
 
@@ -12,19 +13,35 @@ type LoadState =
   | { status: "ready"; data: JobFunction[] };
 
 export default function FunctionsGrid() {
-  // Unfiltered list, fetched once — used only to build the option lists
-  // for the department/group/level selects.
-  const [allFunctions, setAllFunctions] = useState<JobFunction[] | null>(
-    null
-  );
+  const router = useRouter();
+  const pathname = usePathname();
+  const searchParams = useSearchParams();
 
-  const [department, setDepartment] = useState(ALL);
-  const [level, setLevel] = useState(ALL);
-  const [group, setGroup] = useState(ALL);
+  // Read initial filter values directly from the URL query params
+  const search = searchParams.get("search") ?? "";
+  const department = searchParams.get("department") ?? ALL;
+  const group = searchParams.get("group") ?? ALL;
+  const level = searchParams.get("level") ?? ALL;
 
+  const [allFunctions, setAllFunctions] = useState<JobFunction[] | null>(null);
   const [state, setState] = useState<LoadState>({ status: "loading" });
 
-  // Load the full list once, purely to populate the filter dropdowns.
+  // Helper to sync filter changes to the URL without full page reloads
+  const updateFilters = (updates: Record<string, string>) => {
+    const params = new URLSearchParams(searchParams.toString());
+
+    Object.entries(updates).forEach(([key, value]) => {
+      if (!value || value === ALL) {
+        params.delete(key);
+      } else {
+        params.set(key, value);
+      }
+    });
+
+    router.replace(`${pathname}?${params.toString()}`, { scroll: false });
+  };
+
+  // 1. Fetch full list once to populate dropdown options
   useEffect(() => {
     let cancelled = false;
 
@@ -36,21 +53,20 @@ export default function FunctionsGrid() {
       .then((data: JobFunction[]) => {
         if (!cancelled) setAllFunctions(data);
       })
-      .catch(() => {
-        // Non-fatal: the filtered fetch below still handles its own errors.
-      });
+      .catch(() => {});
 
     return () => {
       cancelled = true;
     };
   }, []);
 
-  // Refetch the (server-filtered) list whenever a filter changes.
+  // 2. Refetch filtered data whenever URL searchParams change
   useEffect(() => {
     let cancelled = false;
     setState({ status: "loading" });
 
     const params = new URLSearchParams();
+    if (search.trim()) params.set("search", search.trim());
     if (department !== ALL) params.set("department", department);
     if (group !== ALL) params.set("group", group);
     if (level !== ALL) params.set("level", level);
@@ -77,7 +93,7 @@ export default function FunctionsGrid() {
     return () => {
       cancelled = true;
     };
-  }, [department, group, level]);
+  }, [search, department, group, level]);
 
   const departments = useMemo(() => {
     if (!allFunctions) return [];
@@ -97,37 +113,62 @@ export default function FunctionsGrid() {
   }, [allFunctions]);
 
   const hasActiveFilters =
-    department !== ALL || level !== ALL || group !== ALL;
+    department !== ALL || level !== ALL || group !== ALL || search.trim() !== "";
 
   function clearFilters() {
-    setDepartment(ALL);
-    setLevel(ALL);
-    setGroup(ALL);
+    router.replace(pathname, { scroll: false });
   }
 
   return (
     <div>
+      <div>
+        <label htmlFor="jobtitle-search" className="sr-only">
+          Search by name
+        </label>
+        <div className="relative max-w-sm">
+          <SearchMark className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-sage" />
+          <input
+            id="jobtitle-search"
+            type="text"
+            value={search}
+            onChange={(e) => updateFilters({ search: e.target.value })}
+            placeholder="Type here"
+            className="w-full border border-paper-line/40 bg-canopy-light px-9 py-2.5 font-mono text-xs uppercase tracking-widest text-paper placeholder:text-sage/70 focus:border-brass focus:outline-none"
+          />
+          {search && (
+            <button
+              type="button"
+              onClick={() => updateFilters({ search: "" })}
+              aria-label="Clear search"
+              className="absolute right-2.5 top-1/2 -translate-y-1/2 text-sage transition-colors hover:text-paper"
+            >
+              &times;
+            </button>
+          )}
+        </div>
+      </div>
+      <br />
       <div className="mb-8 flex flex-wrap items-end gap-4">
         <FilterSelect
           id="filter-department"
           label="Department"
           value={department}
           options={departments}
-          onChange={setDepartment}
+          onChange={(val) => updateFilters({ department: val })}
         />
         <FilterSelect
           id="filter-group"
           label="Group"
           value={group}
           options={groups}
-          onChange={setGroup}
+          onChange={(val) => updateFilters({ group: val })}
         />
         <FilterSelect
           id="filter-level"
           label="Level"
           value={level}
           options={levels.map((lvl) => String(lvl))}
-          onChange={setLevel}
+          onChange={(val) => updateFilters({ level: val })}
         />
 
         {hasActiveFilters && (
@@ -214,5 +255,14 @@ function FilterSelect({
         ))}
       </select>
     </div>
+  );
+}
+
+function SearchMark({ className }: { className?: string }) {
+  return (
+    <svg viewBox="0 0 24 24" fill="none" className={className} aria-hidden="true">
+      <circle cx="10.5" cy="10.5" r="6.5" stroke="currentColor" strokeWidth="1.5" />
+      <path d="M15.5 15.5L20 20" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
+    </svg>
   );
 }
