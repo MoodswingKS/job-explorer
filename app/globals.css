@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-canopy text-paper antialiased;
+  }
+
+  ::selection {
+    @apply bg-brass/40 text-paper;
+  }
+
+  *:focus-visible {
+    @apply outline outline-2 outline-offset-2 outline-brass-light;
+  }
+}
+
+@layer utilities {
+  .bg-grain-overlay {
+    background-image: theme("backgroundImage.grain");
+    background-size: theme("backgroundSize.grain");
+  }
+
+  .dotted-rule {
+    background-image: linear-gradient(to right, theme("colors.paper.line") 40%, transparent 0%);
+    background-position: bottom;
+    background-size: 6px 1px;
+    background-repeat: repeat-x;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

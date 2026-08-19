@@ -1,0 +1,2535 @@
+[  {
+    "id": "fn-00001",
+    "title": "Scrum Master",
+    "group": "Management",
+    "department": "Business Operations",
+    "level": 3,
+    "employeeCount": 5,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3500,
+      "max": 4950
+    },
+    "skills": [
+      "Agile",
+      "Financial Management",
+      "Project Management",
+      "Scrum",
+      "Stakeholder Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-00762",
+      "fn-00634",
+      "fn-01504"
+    ]
+  },
+  {
+    "id": "fn-00002",
+    "title": "Senior Customer Support Specialist",
+    "group": "Customer Service",
+    "department": "Customer Support",
+    "level": 3,
+    "employeeCount": 1,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3600,
+      "max": 4950
+    },
+    "skills": [
+      "Communication",
+      "Conflict Resolution",
+      "Customer Service",
+      "Data Analysis",
+      "Process Improvement",
+      "Service Management",
+      "Training"
+    ],
+    "relatedFunctionIds": [
+      "fn-04231",
+      "fn-04080",
+      "fn-07250",
+      "fn-01123",
+      "fn-07641"
+    ]
+  },
+  {
+    "id": "fn-00003",
+    "title": "Data Analyst",
+    "group": "IT",
+    "department": "Development",
+    "level": 3,
+    "employeeCount": 1,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3600,
+      "max": 5000
+    },
+    "skills": [
+      "Docker",
+      "PostgreSQL",
+      "SQL",
+      "Terraform"
+    ],
+    "relatedFunctionIds": [
+      "fn-09308",
+      "fn-07006"
+    ]
+  },
+  {
+    "id": "fn-00004",
+    "title": "Learning Specialist",
+    "group": "HR",
+    "department": "Human Resources",
+    "level": 3,
+    "employeeCount": 28,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3600,
+      "max": 4900
+    },
+    "skills": [
+      "Communication",
+      "Employee Relations",
+      "Employment Law",
+      "Recruitment",
+      "Talent Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-08831",
+      "fn-03663",
+      "fn-01118",
+      "fn-03922"
+    ]
+  },
+  {
+    "id": "fn-00005",
+    "title": "HR Manager",
+    "group": "HR",
+    "department": "Human Resources",
+    "level": 5,
+    "employeeCount": 6,
+    "description": "Geeft richting aan complexe vraagstukken en initiatieven, verbindt verschillende disciplines en is verantwoordelijk voor belangrijke resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 5700,
+      "max": 7800
+    },
+    "skills": [
+      "Coaching",
+      "Communication",
+      "Employment Law",
+      "Performance Management",
+      "Recruitment"
+    ],
+    "relatedFunctionIds": [
+      "fn-06955",
+      "fn-01633",
+      "fn-02264"
+    ]
+  },
+  {
+    "id": "fn-00006",
+    "title": "Financial Analyst",
+    "group": "Finance",
+    "department": "Planning & Control",
+    "level": 3,
+    "employeeCount": 21,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3750,
+      "max": 5050
+    },
+    "skills": [
+      "AFAS",
+      "Accounting",
+      "Business Partnering",
+      "Compliance",
+      "Financial Reporting",
+      "SAP"
+    ],
+    "relatedFunctionIds": [
+      "fn-05829",
+      "fn-09245",
+      "fn-04667",
+      "fn-00870",
+      "fn-01696"
+    ]
+  },
+  {
+    "id": "fn-00007",
+    "title": "Software Developer",
+    "group": "IT",
+    "department": "Infrastructure",
+    "level": 3,
+    "employeeCount": 18,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3500,
+      "max": 5200
+    },
+    "skills": [
+      "Data Engineering",
+      "Kubernetes",
+      "Next.js",
+      "PostgreSQL",
+      "REST APIs",
+      "React",
+      "SQL"
+    ],
+    "relatedFunctionIds": [
+      "fn-06451",
+      "fn-02397",
+      "fn-04249",
+      "fn-02749",
+      "fn-02051"
+    ]
+  },
+  {
+    "id": "fn-00008",
+    "title": "Sales Support Specialist",
+    "group": "Sales",
+    "department": "Account Management",
+    "level": 1,
+    "employeeCount": 3,
+    "description": "Ondersteunt dagelijkse werkzaamheden binnen het vakgebied en voert duidelijk afgebakende taken uit volgens afgesproken processen.",
+    "salary": {
+      "min": 2450,
+      "max": 3350
+    },
+    "skills": [
+      "Account Management",
+      "Business Development",
+      "CRM",
+      "Commercial Strategy",
+      "Lead Generation",
+      "Negotiation",
+      "Presentation",
+      "Sales"
+    ],
+    "relatedFunctionIds": [
+      "fn-00301",
+      "fn-01742",
+      "fn-07839"
+    ]
+  },
+  {
+    "id": "fn-00009",
+    "title": "Supply Chain Manager",
+    "group": "Operations",
+    "department": "Operations",
+    "level": 4,
+    "employeeCount": 17,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4450,
+      "max": 6400
+    },
+    "skills": [
+      "ERP",
+      "Lean",
+      "Process Improvement",
+      "Procurement",
+      "Supply Chain"
+    ],
+    "relatedFunctionIds": [
+      "fn-02152",
+      "fn-02268",
+      "fn-04975"
+    ]
+  },
+  {
+    "id": "fn-00010",
+    "title": "Senior Account Manager",
+    "group": "Sales",
+    "department": "Business Development",
+    "level": 4,
+    "employeeCount": 7,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4400,
+      "max": 6150
+    },
+    "skills": [
+      "CRM",
+      "Consultative Selling",
+      "Lead Generation",
+      "Pipeline Management",
+      "Presentation",
+      "Sales"
+    ],
+    "relatedFunctionIds": [
+      "fn-08035",
+      "fn-01264",
+      "fn-04509",
+      "fn-02090",
+      "fn-07878"
+    ]
+  },
+  {
+    "id": "fn-00011",
+    "title": "Talent Acquisition Lead",
+    "group": "HR",
+    "department": "Recruitment",
+    "level": 5,
+    "employeeCount": 11,
+    "description": "Geeft richting aan complexe vraagstukken en initiatieven, verbindt verschillende disciplines en is verantwoordelijk voor belangrijke resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 5550,
+      "max": 7850
+    },
+    "skills": [
+      "Employee Relations",
+      "Learning & Development",
+      "Recruitment",
+      "Talent Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-02295",
+      "fn-04089",
+      "fn-08668"
+    ]
+  },
+  {
+    "id": "fn-00012",
+    "title": "Customer Success Manager",
+    "group": "Customer Service",
+    "department": "Customer Support",
+    "level": 3,
+    "employeeCount": 1,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3600,
+      "max": 5150
+    },
+    "skills": [
+      "CRM",
+      "Communication",
+      "Conflict Resolution",
+      "Customer Service",
+      "Customer Success",
+      "Process Improvement",
+      "Service Management",
+      "Training"
+    ],
+    "relatedFunctionIds": [
+      "fn-00862",
+      "fn-05275",
+      "fn-07319",
+      "fn-03248"
+    ]
+  },
+  {
+    "id": "fn-00013",
+    "title": "Finance Manager",
+    "group": "Finance",
+    "department": "Financial Control",
+    "level": 5,
+    "employeeCount": 50,
+    "description": "Geeft richting aan complexe vraagstukken en initiatieven, verbindt verschillende disciplines en is verantwoordelijk voor belangrijke resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 5650,
+      "max": 7950
+    },
+    "skills": [
+      "Accounting",
+      "Budgeting",
+      "Compliance",
+      "Financial Analysis",
+      "Financial Reporting",
+      "Forecasting",
+      "Power BI"
+    ],
+    "relatedFunctionIds": [
+      "fn-03612",
+      "fn-01942",
+      "fn-07592",
+      "fn-07129"
+    ]
+  },
+  {
+    "id": "fn-00014",
+    "title": "Head of People",
+    "group": "HR",
+    "department": "Human Resources",
+    "level": 6,
+    "employeeCount": 10,
+    "description": "Bepaalt de strategische richting van het vakgebied, neemt organisatiebrede beslissingen en draagt eindverantwoordelijkheid voor resultaten.",
+    "salary": {
+      "min": 7050,
+      "max": 10400
+    },
+    "skills": [
+      "Coaching",
+      "Employee Relations",
+      "Learning & Development",
+      "Talent Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-00656",
+      "fn-00449",
+      "fn-04629",
+      "fn-03860",
+      "fn-02810"
+    ]
+  },
+  {
+    "id": "fn-00015",
+    "title": "Planner",
+    "group": "Operations",
+    "department": "Quality",
+    "level": 2,
+    "employeeCount": 1,
+    "description": "Voert zelfstandig reguliere werkzaamheden uit en draagt bij aan het verbeteren van processen, dienstverlening en resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 2900,
+      "max": 4100
+    },
+    "skills": [
+      "Data Analysis",
+      "Lean",
+      "Planning",
+      "Process Improvement",
+      "Procurement",
+      "Project Management",
+      "Supply Chain"
+    ],
+    "relatedFunctionIds": [
+      "fn-01446",
+      "fn-08838",
+      "fn-03180"
+    ]
+  },
+  {
+    "id": "fn-00016",
+    "title": "Senior Backend Developer",
+    "group": "IT",
+    "department": "Infrastructure",
+    "level": 4,
+    "employeeCount": 30,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4550,
+      "max": 6400
+    },
+    "skills": [
+      "Azure",
+      "GraphQL",
+      "Java",
+      "Kubernetes",
+      "Next.js",
+      "REST APIs",
+      "React"
+    ],
+    "relatedFunctionIds": [
+      "fn-07131",
+      "fn-01591",
+      "fn-01362"
+    ]
+  },
+  {
+    "id": "fn-00017",
+    "title": "Product Manager",
+    "group": "Management",
+    "department": "Business Operations",
+    "level": 4,
+    "employeeCount": 2,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4400,
+      "max": 6100
+    },
+    "skills": [
+      "Agile",
+      "Business Analysis",
+      "Change Management",
+      "Communication",
+      "Financial Management",
+      "Project Management",
+      "Stakeholder Management",
+      "Strategy"
+    ],
+    "relatedFunctionIds": [
+      "fn-03213",
+      "fn-01844",
+      "fn-09095",
+      "fn-05476",
+      "fn-09649"
+    ]
+  },
+  {
+    "id": "fn-00018",
+    "title": "Head of Product",
+    "group": "Management",
+    "department": "General Management",
+    "level": 5,
+    "employeeCount": 3,
+    "description": "Geeft richting aan complexe vraagstukken en initiatieven, verbindt verschillende disciplines en is verantwoordelijk voor belangrijke resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 5750,
+      "max": 7850
+    },
+    "skills": [
+      "Business Analysis",
+      "Communication",
+      "Stakeholder Management",
+      "Strategy"
+    ],
+    "relatedFunctionIds": [
+      "fn-00529",
+      "fn-05975",
+      "fn-00264",
+      "fn-05873"
+    ]
+  },
+  {
+    "id": "fn-00019",
+    "title": "Managing Director",
+    "group": "Management",
+    "department": "General Management",
+    "level": 6,
+    "employeeCount": 20,
+    "description": "Bepaalt de strategische richting van het vakgebied, neemt organisatiebrede beslissingen en draagt eindverantwoordelijkheid voor resultaten.",
+    "salary": {
+      "min": 7050,
+      "max": 10500
+    },
+    "skills": [
+      "Agile",
+      "Change Management",
+      "Communication",
+      "Leadership",
+      "Scrum"
+    ],
+    "relatedFunctionIds": [
+      "fn-01547",
+      "fn-01342"
+    ]
+  },
+  {
+    "id": "fn-00020",
+    "title": "Customer Support Team Lead",
+    "group": "Customer Service",
+    "department": "Customer Success",
+    "level": 4,
+    "employeeCount": 7,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4500,
+      "max": 6300
+    },
+    "skills": [
+      "Communication",
+      "Conflict Resolution",
+      "Customer Service",
+      "Data Analysis",
+      "Process Improvement",
+      "Service Management",
+      "Training"
+    ],
+    "relatedFunctionIds": [
+      "fn-08332",
+      "fn-02690",
+      "fn-02930",
+      "fn-01158",
+      "fn-05855"
+    ]
+  },
+  {
+    "id": "fn-00021",
+    "title": "Senior Software Developer",
+    "group": "IT",
+    "department": "Infrastructure",
+    "level": 4,
+    "employeeCount": 54,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4600,
+      "max": 6200
+    },
+    "skills": [
+      "AWS",
+      "Cybersecurity",
+      "React",
+      "Terraform"
+    ],
+    "relatedFunctionIds": [
+      "fn-03279",
+      "fn-02443",
+      "fn-00948",
+      "fn-00848"
+    ]
+  },
+  {
+    "id": "fn-00022",
+    "title": "Head of Engineering",
+    "group": "IT",
+    "department": "Security",
+    "level": 6,
+    "employeeCount": 1,
+    "description": "Bepaalt de strategische richting van het vakgebied, neemt organisatiebrede beslissingen en draagt eindverantwoordelijkheid voor resultaten.",
+    "salary": {
+      "min": 6900,
+      "max": 10650
+    },
+    "skills": [
+      "Azure",
+      "CI/CD",
+      "GraphQL",
+      "Node.js",
+      "PostgreSQL",
+      "REST APIs",
+      "TypeScript"
+    ],
+    "relatedFunctionIds": [
+      "fn-04144",
+      "fn-05340"
+    ]
+  },
+  {
+    "id": "fn-00023",
+    "title": "Head of Account Management",
+    "group": "Sales",
+    "department": "Sales",
+    "level": 5,
+    "employeeCount": 4,
+    "description": "Geeft richting aan complexe vraagstukken en initiatieven, verbindt verschillende disciplines en is verantwoordelijk voor belangrijke resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 5500,
+      "max": 7850
+    },
+    "skills": [
+      "Account Management",
+      "CRM",
+      "Commercial Strategy",
+      "Consultative Selling",
+      "Pipeline Management",
+      "Presentation"
+    ],
+    "relatedFunctionIds": [
+      "fn-08900",
+      "fn-06980",
+      "fn-07439"
+    ]
+  },
+  {
+    "id": "fn-00024",
+    "title": "Account Executive",
+    "group": "Sales",
+    "department": "Business Development",
+    "level": 3,
+    "employeeCount": 15,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3700,
+      "max": 4950
+    },
+    "skills": [
+      "Account Management",
+      "Business Development",
+      "CRM",
+      "Consultative Selling",
+      "Presentation"
+    ],
+    "relatedFunctionIds": [
+      "fn-00294",
+      "fn-01880",
+      "fn-03253",
+      "fn-06197"
+    ]
+  },
+  {
+    "id": "fn-00025",
+    "title": "Operations Coordinator",
+    "group": "Operations",
+    "department": "Operations",
+    "level": 2,
+    "employeeCount": 5,
+    "description": "Voert zelfstandig reguliere werkzaamheden uit en draagt bij aan het verbeteren van processen, dienstverlening en resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 3150,
+      "max": 4200
+    },
+    "skills": [
+      "Data Analysis",
+      "ERP",
+      "Lean",
+      "Process Improvement",
+      "Procurement",
+      "Project Management",
+      "Vendor Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-05019",
+      "fn-03747",
+      "fn-06005",
+      "fn-07094",
+      "fn-08046"
+    ]
+  },
+  {
+    "id": "fn-00026",
+    "title": "Business Development Representative",
+    "group": "Sales",
+    "department": "Account Management",
+    "level": 2,
+    "employeeCount": 32,
+    "description": "Voert zelfstandig reguliere werkzaamheden uit en draagt bij aan het verbeteren van processen, dienstverlening en resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 3100,
+      "max": 4150
+    },
+    "skills": [
+      "Commercial Strategy",
+      "Lead Generation",
+      "Negotiation",
+      "Pipeline Management",
+      "Sales"
+    ],
+    "relatedFunctionIds": [
+      "fn-02457",
+      "fn-03644",
+      "fn-00527"
+    ]
+  },
+  {
+    "id": "fn-00027",
+    "title": "Chief Strategy Officer",
+    "group": "Management",
+    "department": "Strategy",
+    "level": 6,
+    "employeeCount": 2,
+    "description": "Bepaalt de strategische richting van het vakgebied, neemt organisatiebrede beslissingen en draagt eindverantwoordelijkheid voor resultaten.",
+    "salary": {
+      "min": 7050,
+      "max": 10450
+    },
+    "skills": [
+      "Agile",
+      "Business Analysis",
+      "Communication",
+      "Financial Management",
+      "Leadership",
+      "Project Management",
+      "Scrum",
+      "Stakeholder Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-05348",
+      "fn-01608"
+    ]
+  },
+  {
+    "id": "fn-00028",
+    "title": "Recruitment Assistant",
+    "group": "HR",
+    "department": "Learning & Development",
+    "level": 1,
+    "employeeCount": 2,
+    "description": "Ondersteunt dagelijkse werkzaamheden binnen het vakgebied en voert duidelijk afgebakende taken uit volgens afgesproken processen.",
+    "salary": {
+      "min": 2550,
+      "max": 3500
+    },
+    "skills": [
+      "Communication",
+      "Employee Relations",
+      "HR Analytics",
+      "HRIS",
+      "Recruitment"
+    ],
+    "relatedFunctionIds": [
+      "fn-00285",
+      "fn-01377",
+      "fn-02774",
+      "fn-08961"
+    ]
+  },
+  {
+    "id": "fn-00029",
+    "title": "Senior Accountant",
+    "group": "Finance",
+    "department": "Accounting",
+    "level": 3,
+    "employeeCount": 27,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3650,
+      "max": 4900
+    },
+    "skills": [
+      "AFAS",
+      "Budgeting",
+      "Financial Analysis",
+      "Financial Reporting",
+      "Forecasting"
+    ],
+    "relatedFunctionIds": [
+      "fn-05116",
+      "fn-04201"
+    ]
+  },
+  {
+    "id": "fn-00030",
+    "title": "Backend Developer",
+    "group": "IT",
+    "department": "Infrastructure",
+    "level": 3,
+    "employeeCount": 21,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3500,
+      "max": 4950
+    },
+    "skills": [
+      "AWS",
+      "Cybersecurity",
+      "Docker",
+      "GraphQL",
+      "PostgreSQL",
+      "React",
+      "Terraform",
+      "TypeScript"
+    ],
+    "relatedFunctionIds": [
+      "fn-01106",
+      "fn-06507"
+    ]
+  },
+  {
+    "id": "fn-00031",
+    "title": "Junior Controller",
+    "group": "Finance",
+    "department": "Accounting",
+    "level": 2,
+    "employeeCount": 8,
+    "description": "Voert zelfstandig reguliere werkzaamheden uit en draagt bij aan het verbeteren van processen, dienstverlening en resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 3150,
+      "max": 4100
+    },
+    "skills": [
+      "Business Partnering",
+      "Excel",
+      "Financial Analysis",
+      "Risk Management",
+      "SAP"
+    ],
+    "relatedFunctionIds": [
+      "fn-07338",
+      "fn-08257",
+      "fn-05660",
+      "fn-01442"
+    ]
+  },
+  {
+    "id": "fn-00032",
+    "title": "Learning & Development Manager",
+    "group": "HR",
+    "department": "Recruitment",
+    "level": 4,
+    "employeeCount": 2,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4550,
+      "max": 6200
+    },
+    "skills": [
+      "HR Analytics",
+      "HRIS",
+      "Learning & Development",
+      "Performance Management",
+      "Recruitment",
+      "Talent Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-06143",
+      "fn-01453",
+      "fn-07832"
+    ]
+  },
+  {
+    "id": "fn-00033",
+    "title": "Junior Controller",
+    "group": "Finance",
+    "department": "Accounting",
+    "level": 2,
+    "employeeCount": 1,
+    "description": "Voert zelfstandig reguliere werkzaamheden uit en draagt bij aan het verbeteren van processen, dienstverlening en resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 3150,
+      "max": 4250
+    },
+    "skills": [
+      "AFAS",
+      "Accounting",
+      "Budgeting",
+      "Excel",
+      "Financial Reporting",
+      "Forecasting",
+      "Risk Management",
+      "SAP"
+    ],
+    "relatedFunctionIds": [
+      "fn-04659",
+      "fn-09901",
+      "fn-00870",
+      "fn-01888",
+      "fn-02981"
+    ]
+  },
+  {
+    "id": "fn-00034",
+    "title": "QA Engineer",
+    "group": "IT",
+    "department": "Security",
+    "level": 2,
+    "employeeCount": 1,
+    "description": "Voert zelfstandig reguliere werkzaamheden uit en draagt bij aan het verbeteren van processen, dienstverlening en resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 2950,
+      "max": 4000
+    },
+    "skills": [
+      "Azure",
+      "CI/CD",
+      "Data Engineering",
+      "Docker",
+      "Java",
+      "PostgreSQL",
+      "Terraform",
+      "Testing"
+    ],
+    "relatedFunctionIds": [
+      "fn-02516",
+      "fn-02671"
+    ]
+  },
+  {
+    "id": "fn-00035",
+    "title": "Head of People",
+    "group": "HR",
+    "department": "Learning & Development",
+    "level": 6,
+    "employeeCount": 2,
+    "description": "Bepaalt de strategische richting van het vakgebied, neemt organisatiebrede beslissingen en draagt eindverantwoordelijkheid voor resultaten.",
+    "salary": {
+      "min": 7000,
+      "max": 10650
+    },
+    "skills": [
+      "Coaching",
+      "Communication",
+      "Employee Relations",
+      "Employment Law",
+      "HR Analytics",
+      "Learning & Development"
+    ],
+    "relatedFunctionIds": [
+      "fn-00673",
+      "fn-03209",
+      "fn-00293"
+    ]
+  },
+  {
+    "id": "fn-00036",
+    "title": "Operations Director",
+    "group": "Operations",
+    "department": "Quality",
+    "level": 6,
+    "employeeCount": 5,
+    "description": "Bepaalt de strategische richting van het vakgebied, neemt organisatiebrede beslissingen en draagt eindverantwoordelijkheid voor resultaten.",
+    "salary": {
+      "min": 6950,
+      "max": 10700
+    },
+    "skills": [
+      "Data Analysis",
+      "ERP",
+      "Lean",
+      "Procurement",
+      "Project Management",
+      "Quality Management",
+      "Supply Chain",
+      "Vendor Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-05964",
+      "fn-08150",
+      "fn-04016",
+      "fn-01815"
+    ]
+  },
+  {
+    "id": "fn-00037",
+    "title": "Senior Operations Specialist",
+    "group": "Operations",
+    "department": "Supply Chain",
+    "level": 4,
+    "employeeCount": 65,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4650,
+      "max": 6200
+    },
+    "skills": [
+      "ERP",
+      "Project Management",
+      "Supply Chain",
+      "Vendor Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-01825",
+      "fn-04819",
+      "fn-06729",
+      "fn-04575"
+    ]
+  },
+  {
+    "id": "fn-00038",
+    "title": "Business Development Manager",
+    "group": "Sales",
+    "department": "Account Management",
+    "level": 3,
+    "employeeCount": 6,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3650,
+      "max": 5000
+    },
+    "skills": [
+      "Account Management",
+      "Business Development",
+      "CRM",
+      "Consultative Selling",
+      "Lead Generation",
+      "Pipeline Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-06151",
+      "fn-02271",
+      "fn-07969",
+      "fn-08101"
+    ]
+  },
+  {
+    "id": "fn-00039",
+    "title": "Data Analyst",
+    "group": "IT",
+    "department": "Security",
+    "level": 2,
+    "employeeCount": 7,
+    "description": "Voert zelfstandig reguliere werkzaamheden uit en draagt bij aan het verbeteren van processen, dienstverlening en resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 3150,
+      "max": 4200
+    },
+    "skills": [
+      "C#",
+      "Cybersecurity",
+      "Docker",
+      "GraphQL",
+      "Java",
+      "PostgreSQL",
+      "SQL"
+    ],
+    "relatedFunctionIds": [
+      "fn-05484",
+      "fn-00765",
+      "fn-00822",
+      "fn-08030"
+    ]
+  },
+  {
+    "id": "fn-00040",
+    "title": "Operations Specialist",
+    "group": "Operations",
+    "department": "Supply Chain",
+    "level": 3,
+    "employeeCount": 28,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3600,
+      "max": 4950
+    },
+    "skills": [
+      "Data Analysis",
+      "ERP",
+      "Lean",
+      "Procurement",
+      "Project Management",
+      "Quality Management",
+      "Supply Chain",
+      "Vendor Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-02331",
+      "fn-00983",
+      "fn-06997"
+    ]
+  },
+  {
+    "id": "fn-00041",
+    "title": "Service Desk Specialist",
+    "group": "IT",
+    "department": "Infrastructure",
+    "level": 1,
+    "employeeCount": 4,
+    "description": "Ondersteunt dagelijkse werkzaamheden binnen het vakgebied en voert duidelijk afgebakende taken uit volgens afgesproken processen.",
+    "salary": {
+      "min": 2550,
+      "max": 3300
+    },
+    "skills": [
+      "AWS",
+      "C#",
+      "CI/CD",
+      "Data Engineering",
+      "Git",
+      "Kubernetes",
+      "Python",
+      "REST APIs"
+    ],
+    "relatedFunctionIds": [
+      "fn-08972",
+      "fn-03554"
+    ]
+  },
+  {
+    "id": "fn-00042",
+    "title": "Head of Engineering",
+    "group": "IT",
+    "department": "Data & Analytics",
+    "level": 6,
+    "employeeCount": 6,
+    "description": "Bepaalt de strategische richting van het vakgebied, neemt organisatiebrede beslissingen en draagt eindverantwoordelijkheid voor resultaten.",
+    "salary": {
+      "min": 6900,
+      "max": 10600
+    },
+    "skills": [
+      "AWS",
+      "GraphQL",
+      "Java",
+      "Kubernetes",
+      "Testing"
+    ],
+    "relatedFunctionIds": [
+      "fn-04395",
+      "fn-09550",
+      "fn-09409"
+    ]
+  },
+  {
+    "id": "fn-00043",
+    "title": "Learning Coordinator",
+    "group": "HR",
+    "department": "Learning & Development",
+    "level": 2,
+    "employeeCount": 6,
+    "description": "Voert zelfstandig reguliere werkzaamheden uit en draagt bij aan het verbeteren van processen, dienstverlening en resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 2900,
+      "max": 4050
+    },
+    "skills": [
+      "Coaching",
+      "Communication",
+      "Employee Relations",
+      "Employment Law",
+      "HR Analytics",
+      "HRIS",
+      "Learning & Development",
+      "Recruitment"
+    ],
+    "relatedFunctionIds": [
+      "fn-08836",
+      "fn-00732",
+      "fn-01076"
+    ]
+  },
+  {
+    "id": "fn-00044",
+    "title": "Senior Operations Specialist",
+    "group": "Operations",
+    "department": "Quality",
+    "level": 4,
+    "employeeCount": 18,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4600,
+      "max": 6150
+    },
+    "skills": [
+      "Data Analysis",
+      "ERP",
+      "Lean",
+      "Planning",
+      "Procurement",
+      "Project Management",
+      "Supply Chain"
+    ],
+    "relatedFunctionIds": [
+      "fn-09720",
+      "fn-06464",
+      "fn-06238"
+    ]
+  },
+  {
+    "id": "fn-00045",
+    "title": "Head of Digital Marketing",
+    "group": "Marketing",
+    "department": "Brand",
+    "level": 5,
+    "employeeCount": 3,
+    "description": "Geeft richting aan complexe vraagstukken en initiatieven, verbindt verschillende disciplines en is verantwoordelijk voor belangrijke resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 5550,
+      "max": 8000
+    },
+    "skills": [
+      "Brand Strategy",
+      "Content Marketing",
+      "Copywriting",
+      "Market Research"
+    ],
+    "relatedFunctionIds": [
+      "fn-06452",
+      "fn-04123",
+      "fn-06837",
+      "fn-07995",
+      "fn-04968"
+    ]
+  },
+  {
+    "id": "fn-00046",
+    "title": "Software Developer",
+    "group": "IT",
+    "department": "IT Operations",
+    "level": 2,
+    "employeeCount": 6,
+    "description": "Voert zelfstandig reguliere werkzaamheden uit en draagt bij aan het verbeteren van processen, dienstverlening en resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 3100,
+      "max": 4100
+    },
+    "skills": [
+      "Data Engineering",
+      "Docker",
+      "GraphQL",
+      "Java",
+      "Next.js",
+      "PostgreSQL",
+      "Testing",
+      "TypeScript"
+    ],
+    "relatedFunctionIds": [
+      "fn-00789",
+      "fn-00223",
+      "fn-00257",
+      "fn-02738"
+    ]
+  },
+  {
+    "id": "fn-00047",
+    "title": "HR Director",
+    "group": "HR",
+    "department": "People Operations",
+    "level": 6,
+    "employeeCount": 2,
+    "description": "Bepaalt de strategische richting van het vakgebied, neemt organisatiebrede beslissingen en draagt eindverantwoordelijkheid voor resultaten.",
+    "salary": {
+      "min": 6950,
+      "max": 10700
+    },
+    "skills": [
+      "Coaching",
+      "Communication",
+      "Employee Relations",
+      "HR Analytics",
+      "HRIS",
+      "Learning & Development",
+      "Performance Management",
+      "Talent Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-02810",
+      "fn-05720",
+      "fn-07162"
+    ]
+  },
+  {
+    "id": "fn-00048",
+    "title": "Product Manager",
+    "group": "Management",
+    "department": "General Management",
+    "level": 4,
+    "employeeCount": 35,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4400,
+      "max": 6100
+    },
+    "skills": [
+      "Financial Management",
+      "Project Management",
+      "Stakeholder Management",
+      "Strategy"
+    ],
+    "relatedFunctionIds": [
+      "fn-07740",
+      "fn-00774",
+      "fn-00486",
+      "fn-07308"
+    ]
+  },
+  {
+    "id": "fn-00049",
+    "title": "Operations Specialist",
+    "group": "Operations",
+    "department": "Quality",
+    "level": 3,
+    "employeeCount": 14,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3550,
+      "max": 5200
+    },
+    "skills": [
+      "Data Analysis",
+      "ERP",
+      "Lean",
+      "Planning",
+      "Quality Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-07366",
+      "fn-07099",
+      "fn-04129",
+      "fn-07101"
+    ]
+  },
+  {
+    "id": "fn-00050",
+    "title": "DevOps Engineer",
+    "group": "IT",
+    "department": "Infrastructure",
+    "level": 3,
+    "employeeCount": 3,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3650,
+      "max": 5150
+    },
+    "skills": [
+      "Azure",
+      "Git",
+      "GraphQL",
+      "Node.js",
+      "PostgreSQL",
+      "Python",
+      "SQL",
+      "Terraform"
+    ],
+    "relatedFunctionIds": [
+      "fn-01308",
+      "fn-02397",
+      "fn-08453",
+      "fn-09603"
+    ]
+  },
+  {
+    "id": "fn-00051",
+    "title": "Backend Developer",
+    "group": "IT",
+    "department": "Security",
+    "level": 3,
+    "employeeCount": 35,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3500,
+      "max": 5150
+    },
+    "skills": [
+      "AWS",
+      "Cybersecurity",
+      "Docker",
+      "GraphQL",
+      "Java",
+      "Kubernetes",
+      "PostgreSQL",
+      "Python"
+    ],
+    "relatedFunctionIds": [
+      "fn-03506",
+      "fn-06337",
+      "fn-07348"
+    ]
+  },
+  {
+    "id": "fn-00052",
+    "title": "Backend Developer",
+    "group": "IT",
+    "department": "IT Operations",
+    "level": 3,
+    "employeeCount": 16,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3650,
+      "max": 4900
+    },
+    "skills": [
+      "Docker",
+      "Git",
+      "Next.js",
+      "TypeScript"
+    ],
+    "relatedFunctionIds": [
+      "fn-08030",
+      "fn-08648",
+      "fn-09713",
+      "fn-03113"
+    ]
+  },
+  {
+    "id": "fn-00053",
+    "title": "Security Engineer",
+    "group": "IT",
+    "department": "IT Operations",
+    "level": 4,
+    "employeeCount": 66,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4450,
+      "max": 6350
+    },
+    "skills": [
+      "Cybersecurity",
+      "Data Engineering",
+      "Git",
+      "Next.js",
+      "Node.js",
+      "Python",
+      "Testing",
+      "TypeScript"
+    ],
+    "relatedFunctionIds": [
+      "fn-01849",
+      "fn-01260",
+      "fn-06880",
+      "fn-03425"
+    ]
+  },
+  {
+    "id": "fn-00054",
+    "title": "Senior Operations Specialist",
+    "group": "Operations",
+    "department": "Supply Chain",
+    "level": 4,
+    "employeeCount": 13,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4450,
+      "max": 6200
+    },
+    "skills": [
+      "ERP",
+      "Lean",
+      "Process Improvement",
+      "Procurement",
+      "Supply Chain",
+      "Vendor Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-01997",
+      "fn-09660",
+      "fn-06820",
+      "fn-01685"
+    ]
+  },
+  {
+    "id": "fn-00055",
+    "title": "Operations Specialist",
+    "group": "Operations",
+    "department": "Quality",
+    "level": 3,
+    "employeeCount": 3,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3550,
+      "max": 5050
+    },
+    "skills": [
+      "Data Analysis",
+      "ERP",
+      "Lean",
+      "Process Improvement"
+    ],
+    "relatedFunctionIds": [
+      "fn-09552",
+      "fn-07800",
+      "fn-02632",
+      "fn-01113",
+      "fn-08455"
+    ]
+  },
+  {
+    "id": "fn-00056",
+    "title": "Finance Business Partner",
+    "group": "Finance",
+    "department": "Planning & Control",
+    "level": 4,
+    "employeeCount": 14,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4450,
+      "max": 6400
+    },
+    "skills": [
+      "Compliance",
+      "Forecasting",
+      "Power BI",
+      "Risk Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-09189",
+      "fn-02609"
+    ]
+  },
+  {
+    "id": "fn-00057",
+    "title": "System Administrator",
+    "group": "IT",
+    "department": "IT Operations",
+    "level": 2,
+    "employeeCount": 15,
+    "description": "Voert zelfstandig reguliere werkzaamheden uit en draagt bij aan het verbeteren van processen, dienstverlening en resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 3000,
+      "max": 4150
+    },
+    "skills": [
+      "Git",
+      "Java",
+      "Kubernetes",
+      "PostgreSQL",
+      "Python",
+      "REST APIs",
+      "SQL",
+      "TypeScript"
+    ],
+    "relatedFunctionIds": [
+      "fn-05867",
+      "fn-01688",
+      "fn-08853",
+      "fn-03233",
+      "fn-05037"
+    ]
+  },
+  {
+    "id": "fn-00058",
+    "title": "Management Assistant",
+    "group": "Management",
+    "department": "Strategy",
+    "level": 1,
+    "employeeCount": 21,
+    "description": "Ondersteunt dagelijkse werkzaamheden binnen het vakgebied en voert duidelijk afgebakende taken uit volgens afgesproken processen.",
+    "salary": {
+      "min": 2400,
+      "max": 3350
+    },
+    "skills": [
+      "Business Analysis",
+      "Change Management",
+      "Communication",
+      "Financial Management",
+      "Leadership",
+      "Stakeholder Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-03068",
+      "fn-01922",
+      "fn-05092",
+      "fn-05211",
+      "fn-01444"
+    ]
+  },
+  {
+    "id": "fn-00059",
+    "title": "Finance Business Partner",
+    "group": "Finance",
+    "department": "Planning & Control",
+    "level": 4,
+    "employeeCount": 5,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4400,
+      "max": 6350
+    },
+    "skills": [
+      "Accounting",
+      "Budgeting",
+      "Financial Reporting",
+      "Forecasting",
+      "Power BI"
+    ],
+    "relatedFunctionIds": [
+      "fn-01949",
+      "fn-09840",
+      "fn-07988"
+    ]
+  },
+  {
+    "id": "fn-00060",
+    "title": "Senior Accountant",
+    "group": "Finance",
+    "department": "Accounting",
+    "level": 3,
+    "employeeCount": 6,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3750,
+      "max": 5050
+    },
+    "skills": [
+      "AFAS",
+      "Budgeting",
+      "Financial Analysis",
+      "Risk Management",
+      "SAP"
+    ],
+    "relatedFunctionIds": [
+      "fn-05351",
+      "fn-04852"
+    ]
+  },
+  {
+    "id": "fn-00061",
+    "title": "Procurement Assistant",
+    "group": "Operations",
+    "department": "Procurement",
+    "level": 1,
+    "employeeCount": 28,
+    "description": "Ondersteunt dagelijkse werkzaamheden binnen het vakgebied en voert duidelijk afgebakende taken uit volgens afgesproken processen.",
+    "salary": {
+      "min": 2450,
+      "max": 3250
+    },
+    "skills": [
+      "ERP",
+      "Planning",
+      "Process Improvement",
+      "Quality Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-06058",
+      "fn-08747",
+      "fn-00828",
+      "fn-09365"
+    ]
+  },
+  {
+    "id": "fn-00062",
+    "title": "Financial Analyst",
+    "group": "Finance",
+    "department": "Planning & Control",
+    "level": 3,
+    "employeeCount": 51,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3600,
+      "max": 5100
+    },
+    "skills": [
+      "Accounting",
+      "Budgeting",
+      "Business Partnering",
+      "Compliance",
+      "Excel",
+      "Financial Analysis",
+      "Financial Reporting",
+      "Power BI"
+    ],
+    "relatedFunctionIds": [
+      "fn-09327",
+      "fn-03965"
+    ]
+  },
+  {
+    "id": "fn-00063",
+    "title": "Supply Chain Analyst",
+    "group": "Operations",
+    "department": "Supply Chain",
+    "level": 3,
+    "employeeCount": 4,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3600,
+      "max": 5050
+    },
+    "skills": [
+      "Data Analysis",
+      "ERP",
+      "Planning",
+      "Procurement"
+    ],
+    "relatedFunctionIds": [
+      "fn-07595",
+      "fn-07979"
+    ]
+  },
+  {
+    "id": "fn-00064",
+    "title": "Senior Account Manager",
+    "group": "Sales",
+    "department": "Business Development",
+    "level": 4,
+    "employeeCount": 1,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4650,
+      "max": 6400
+    },
+    "skills": [
+      "Business Development",
+      "Commercial Strategy",
+      "Consultative Selling",
+      "Negotiation",
+      "Sales"
+    ],
+    "relatedFunctionIds": [
+      "fn-06725",
+      "fn-05208"
+    ]
+  },
+  {
+    "id": "fn-00065",
+    "title": "Finance Manager",
+    "group": "Finance",
+    "department": "Treasury",
+    "level": 5,
+    "employeeCount": 2,
+    "description": "Geeft richting aan complexe vraagstukken en initiatieven, verbindt verschillende disciplines en is verantwoordelijk voor belangrijke resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 5700,
+      "max": 7750
+    },
+    "skills": [
+      "Budgeting",
+      "Business Partnering",
+      "Compliance",
+      "Financial Analysis",
+      "Financial Reporting",
+      "Forecasting",
+      "Risk Management",
+      "SAP"
+    ],
+    "relatedFunctionIds": [
+      "fn-04034",
+      "fn-05982",
+      "fn-02488",
+      "fn-09185",
+      "fn-07840"
+    ]
+  },
+  {
+    "id": "fn-00066",
+    "title": "Senior Recruiter",
+    "group": "HR",
+    "department": "Human Resources",
+    "level": 4,
+    "employeeCount": 25,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4550,
+      "max": 6400
+    },
+    "skills": [
+      "Coaching",
+      "Employee Relations",
+      "Employment Law",
+      "HRIS",
+      "Recruitment",
+      "Talent Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-07302",
+      "fn-03329",
+      "fn-04996"
+    ]
+  },
+  {
+    "id": "fn-00067",
+    "title": "Data Analyst",
+    "group": "IT",
+    "department": "IT Operations",
+    "level": 2,
+    "employeeCount": 10,
+    "description": "Voert zelfstandig reguliere werkzaamheden uit en draagt bij aan het verbeteren van processen, dienstverlening en resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 2900,
+      "max": 4150
+    },
+    "skills": [
+      "Git",
+      "GraphQL",
+      "Python",
+      "SQL",
+      "TypeScript"
+    ],
+    "relatedFunctionIds": [
+      "fn-02656",
+      "fn-08019"
+    ]
+  },
+  {
+    "id": "fn-00068",
+    "title": "Customer Success Manager",
+    "group": "Customer Service",
+    "department": "Customer Support",
+    "level": 5,
+    "employeeCount": 1,
+    "description": "Geeft richting aan complexe vraagstukken en initiatieven, verbindt verschillende disciplines en is verantwoordelijk voor belangrijke resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 5700,
+      "max": 8000
+    },
+    "skills": [
+      "CRM",
+      "Customer Service",
+      "Customer Success",
+      "Data Analysis",
+      "Process Improvement",
+      "Service Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-08672",
+      "fn-09160",
+      "fn-09922",
+      "fn-07458",
+      "fn-04261"
+    ]
+  },
+  {
+    "id": "fn-00069",
+    "title": "Quality Coordinator",
+    "group": "Operations",
+    "department": "Procurement",
+    "level": 3,
+    "employeeCount": 32,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3550,
+      "max": 5050
+    },
+    "skills": [
+      "Lean",
+      "Planning",
+      "Process Improvement",
+      "Supply Chain"
+    ],
+    "relatedFunctionIds": [
+      "fn-03494",
+      "fn-09853"
+    ]
+  },
+  {
+    "id": "fn-00070",
+    "title": "Customer Success Manager",
+    "group": "Customer Service",
+    "department": "Service Operations",
+    "level": 5,
+    "employeeCount": 2,
+    "description": "Geeft richting aan complexe vraagstukken en initiatieven, verbindt verschillende disciplines en is verantwoordelijk voor belangrijke resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 5650,
+      "max": 8000
+    },
+    "skills": [
+      "CRM",
+      "Communication",
+      "Conflict Resolution",
+      "Customer Success",
+      "Data Analysis",
+      "Process Improvement",
+      "Service Management",
+      "Training"
+    ],
+    "relatedFunctionIds": [
+      "fn-00995",
+      "fn-06910",
+      "fn-05310",
+      "fn-06409",
+      "fn-03430"
+    ]
+  },
+  {
+    "id": "fn-00071",
+    "title": "Senior Recruiter",
+    "group": "HR",
+    "department": "People Operations",
+    "level": 4,
+    "employeeCount": 3,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4450,
+      "max": 6350
+    },
+    "skills": [
+      "Coaching",
+      "Communication",
+      "Employment Law",
+      "Performance Management",
+      "Recruitment"
+    ],
+    "relatedFunctionIds": [
+      "fn-09064",
+      "fn-08505"
+    ]
+  },
+  {
+    "id": "fn-00072",
+    "title": "Finance Business Partner Lead",
+    "group": "Finance",
+    "department": "Planning & Control",
+    "level": 5,
+    "employeeCount": 23,
+    "description": "Geeft richting aan complexe vraagstukken en initiatieven, verbindt verschillende disciplines en is verantwoordelijk voor belangrijke resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 5650,
+      "max": 7750
+    },
+    "skills": [
+      "Accounting",
+      "Compliance",
+      "Excel",
+      "Forecasting",
+      "Power BI"
+    ],
+    "relatedFunctionIds": [
+      "fn-06365",
+      "fn-04489",
+      "fn-03102",
+      "fn-08123"
+    ]
+  },
+  {
+    "id": "fn-00073",
+    "title": "Security Engineer",
+    "group": "IT",
+    "department": "Development",
+    "level": 4,
+    "employeeCount": 104,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4450,
+      "max": 6200
+    },
+    "skills": [
+      "Kubernetes",
+      "React",
+      "SQL",
+      "Testing"
+    ],
+    "relatedFunctionIds": [
+      "fn-00949",
+      "fn-03231"
+    ]
+  },
+  {
+    "id": "fn-00074",
+    "title": "Senior Sales Representative",
+    "group": "Sales",
+    "department": "Account Management",
+    "level": 3,
+    "employeeCount": 22,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3750,
+      "max": 5150
+    },
+    "skills": [
+      "Account Management",
+      "CRM",
+      "Commercial Strategy",
+      "Consultative Selling",
+      "Negotiation",
+      "Presentation",
+      "Sales"
+    ],
+    "relatedFunctionIds": [
+      "fn-01999",
+      "fn-01053",
+      "fn-03704"
+    ]
+  },
+  {
+    "id": "fn-00075",
+    "title": "Junior Application Support Specialist",
+    "group": "IT",
+    "department": "Development",
+    "level": 1,
+    "employeeCount": 12,
+    "description": "Ondersteunt dagelijkse werkzaamheden binnen het vakgebied en voert duidelijk afgebakende taken uit volgens afgesproken processen.",
+    "salary": {
+      "min": 2400,
+      "max": 3350
+    },
+    "skills": [
+      "AWS",
+      "C#",
+      "CI/CD",
+      "Docker",
+      "Java",
+      "Kubernetes",
+      "Node.js",
+      "React"
+    ],
+    "relatedFunctionIds": [
+      "fn-01093",
+      "fn-08245",
+      "fn-03778"
+    ]
+  },
+  {
+    "id": "fn-00076",
+    "title": "Finance Assistant",
+    "group": "Finance",
+    "department": "Accounting",
+    "level": 1,
+    "employeeCount": 4,
+    "description": "Ondersteunt dagelijkse werkzaamheden binnen het vakgebied en voert duidelijk afgebakende taken uit volgens afgesproken processen.",
+    "salary": {
+      "min": 2600,
+      "max": 3450
+    },
+    "skills": [
+      "Budgeting",
+      "Business Partnering",
+      "Compliance",
+      "Excel",
+      "Financial Reporting",
+      "Power BI",
+      "Risk Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-06116",
+      "fn-01230",
+      "fn-06587",
+      "fn-01367"
+    ]
+  },
+  {
+    "id": "fn-00077",
+    "title": "Project Manager",
+    "group": "Management",
+    "department": "General Management",
+    "level": 3,
+    "employeeCount": 3,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3700,
+      "max": 5150
+    },
+    "skills": [
+      "Business Analysis",
+      "Financial Management",
+      "Stakeholder Management",
+      "Strategy"
+    ],
+    "relatedFunctionIds": [
+      "fn-03990",
+      "fn-04940"
+    ]
+  },
+  {
+    "id": "fn-00078",
+    "title": "Product Manager",
+    "group": "Management",
+    "department": "General Management",
+    "level": 4,
+    "employeeCount": 17,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4600,
+      "max": 6100
+    },
+    "skills": [
+      "Agile",
+      "Change Management",
+      "Communication",
+      "Project Management",
+      "Stakeholder Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-06161",
+      "fn-00652",
+      "fn-05265",
+      "fn-08829",
+      "fn-06493"
+    ]
+  },
+  {
+    "id": "fn-00079",
+    "title": "Procurement Lead",
+    "group": "Operations",
+    "department": "Operations",
+    "level": 5,
+    "employeeCount": 2,
+    "description": "Geeft richting aan complexe vraagstukken en initiatieven, verbindt verschillende disciplines en is verantwoordelijk voor belangrijke resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 5750,
+      "max": 7750
+    },
+    "skills": [
+      "Data Analysis",
+      "Lean",
+      "Process Improvement",
+      "Project Management",
+      "Supply Chain"
+    ],
+    "relatedFunctionIds": [
+      "fn-04575",
+      "fn-02869",
+      "fn-07909",
+      "fn-03816"
+    ]
+  },
+  {
+    "id": "fn-00080",
+    "title": "QA Engineer",
+    "group": "IT",
+    "department": "Development",
+    "level": 2,
+    "employeeCount": 10,
+    "description": "Voert zelfstandig reguliere werkzaamheden uit en draagt bij aan het verbeteren van processen, dienstverlening en resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 2950,
+      "max": 4150
+    },
+    "skills": [
+      "Data Engineering",
+      "GraphQL",
+      "REST APIs",
+      "TypeScript"
+    ],
+    "relatedFunctionIds": [
+      "fn-07544",
+      "fn-00519",
+      "fn-06257"
+    ]
+  },
+  {
+    "id": "fn-00081",
+    "title": "Account Manager",
+    "group": "Sales",
+    "department": "Account Management",
+    "level": 2,
+    "employeeCount": 12,
+    "description": "Voert zelfstandig reguliere werkzaamheden uit en draagt bij aan het verbeteren van processen, dienstverlening en resultaten binnen het vakgebied.",
+    "salary": {
+      "min": 2950,
+      "max": 4100
+    },
+    "skills": [
+      "Account Management",
+      "Business Development",
+      "Negotiation",
+      "Sales"
+    ],
+    "relatedFunctionIds": [
+      "fn-00024",
+      "fn-02884",
+      "fn-06461",
+      "fn-02242"
+    ]
+  },
+  {
+    "id": "fn-00082",
+    "title": "Senior Recruiter",
+    "group": "HR",
+    "department": "Recruitment",
+    "level": 4,
+    "employeeCount": 5,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4600,
+      "max": 6300
+    },
+    "skills": [
+      "Coaching",
+      "Communication",
+      "Employee Relations",
+      "Employment Law"
+    ],
+    "relatedFunctionIds": [
+      "fn-02987",
+      "fn-08855"
+    ]
+  },
+  {
+    "id": "fn-00083",
+    "title": "Growth Marketing Manager",
+    "group": "Marketing",
+    "department": "Product Marketing",
+    "level": 4,
+    "employeeCount": 2,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4500,
+      "max": 6350
+    },
+    "skills": [
+      "Brand Strategy",
+      "Campaign Management",
+      "Content Marketing",
+      "Copywriting",
+      "Market Research",
+      "Marketing Automation",
+      "SEA",
+      "Social Media"
+    ],
+    "relatedFunctionIds": [
+      "fn-02391",
+      "fn-00439",
+      "fn-00167"
+    ]
+  },
+  {
+    "id": "fn-00084",
+    "title": "Senior Account Manager",
+    "group": "Sales",
+    "department": "Business Development",
+    "level": 4,
+    "employeeCount": 1,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4600,
+      "max": 6400
+    },
+    "skills": [
+      "Business Development",
+      "CRM",
+      "Consultative Selling",
+      "Lead Generation",
+      "Negotiation",
+      "Pipeline Management",
+      "Presentation",
+      "Sales"
+    ],
+    "relatedFunctionIds": [
+      "fn-08018",
+      "fn-07347",
+      "fn-04563",
+      "fn-05208"
+    ]
+  },
+  {
+    "id": "fn-00085",
+    "title": "Senior Operations Specialist",
+    "group": "Operations",
+    "department": "Procurement",
+    "level": 4,
+    "employeeCount": 54,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4650,
+      "max": 6100
+    },
+    "skills": [
+      "ERP",
+      "Lean",
+      "Planning",
+      "Process Improvement",
+      "Project Management",
+      "Quality Management",
+      "Supply Chain",
+      "Vendor Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-05431",
+      "fn-04600"
+    ]
+  },
+  {
+    "id": "fn-00086",
+    "title": "Account Manager",
+    "group": "Sales",
+    "department": "Account Management",
+    "level": 3,
+    "employeeCount": 5,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3700,
+      "max": 4950
+    },
+    "skills": [
+      "Account Management",
+      "Business Development",
+      "CRM",
+      "Commercial Strategy",
+      "Negotiation",
+      "Presentation"
+    ],
+    "relatedFunctionIds": [
+      "fn-05650",
+      "fn-09144",
+      "fn-02042",
+      "fn-01125",
+      "fn-07968"
+    ]
+  },
+  {
+    "id": "fn-00087",
+    "title": "Senior Financial Analyst",
+    "group": "Finance",
+    "department": "Treasury",
+    "level": 4,
+    "employeeCount": 18,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4500,
+      "max": 6200
+    },
+    "skills": [
+      "Budgeting",
+      "Business Partnering",
+      "Compliance",
+      "Financial Reporting",
+      "Forecasting",
+      "Power BI"
+    ],
+    "relatedFunctionIds": [
+      "fn-09189",
+      "fn-09208"
+    ]
+  },
+  {
+    "id": "fn-00088",
+    "title": "Service Quality Specialist",
+    "group": "Customer Service",
+    "department": "Customer Support",
+    "level": 3,
+    "employeeCount": 2,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3700,
+      "max": 5200
+    },
+    "skills": [
+      "CRM",
+      "Communication",
+      "Customer Service",
+      "Data Analysis",
+      "Process Improvement",
+      "Training"
+    ],
+    "relatedFunctionIds": [
+      "fn-01564",
+      "fn-06703",
+      "fn-03503"
+    ]
+  },
+  {
+    "id": "fn-00089",
+    "title": "Head of Customer Success",
+    "group": "Customer Service",
+    "department": "Service Operations",
+    "level": 6,
+    "employeeCount": 1,
+    "description": "Bepaalt de strategische richting van het vakgebied, neemt organisatiebrede beslissingen en draagt eindverantwoordelijkheid voor resultaten.",
+    "salary": {
+      "min": 7100,
+      "max": 10550
+    },
+    "skills": [
+      "Conflict Resolution",
+      "Customer Service",
+      "Customer Success",
+      "Data Analysis",
+      "Process Improvement",
+      "Training"
+    ],
+    "relatedFunctionIds": [
+      "fn-04775",
+      "fn-05487"
+    ]
+  },
+  {
+    "id": "fn-00090",
+    "title": "Data Engineer",
+    "group": "IT",
+    "department": "IT Operations",
+    "level": 4,
+    "employeeCount": 19,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4550,
+      "max": 6250
+    },
+    "skills": [
+      "AWS",
+      "CI/CD",
+      "Docker",
+      "Git",
+      "Next.js"
+    ],
+    "relatedFunctionIds": [
+      "fn-06696",
+      "fn-04496",
+      "fn-02576",
+      "fn-02413"
+    ]
+  },
+  {
+    "id": "fn-00091",
+    "title": "Talent Acquisition Specialist",
+    "group": "HR",
+    "department": "Human Resources",
+    "level": 3,
+    "employeeCount": 4,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3550,
+      "max": 5200
+    },
+    "skills": [
+      "Coaching",
+      "Employee Relations",
+      "HRIS",
+      "Performance Management",
+      "Talent Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-05784",
+      "fn-07872",
+      "fn-00198"
+    ]
+  },
+  {
+    "id": "fn-00092",
+    "title": "Account Manager",
+    "group": "Sales",
+    "department": "Business Development",
+    "level": 3,
+    "employeeCount": 11,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3600,
+      "max": 4950
+    },
+    "skills": [
+      "Account Management",
+      "Business Development",
+      "CRM",
+      "Consultative Selling",
+      "Lead Generation",
+      "Negotiation",
+      "Pipeline Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-00115",
+      "fn-03356"
+    ]
+  },
+  {
+    "id": "fn-00093",
+    "title": "Data Engineer",
+    "group": "IT",
+    "department": "Infrastructure",
+    "level": 4,
+    "employeeCount": 8,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4650,
+      "max": 6350
+    },
+    "skills": [
+      "Cybersecurity",
+      "Next.js",
+      "Node.js",
+      "SQL"
+    ],
+    "relatedFunctionIds": [
+      "fn-08107",
+      "fn-02431",
+      "fn-00450",
+      "fn-09078"
+    ]
+  },
+  {
+    "id": "fn-00094",
+    "title": "Product Manager",
+    "group": "Management",
+    "department": "Strategy",
+    "level": 4,
+    "employeeCount": 132,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4450,
+      "max": 6300
+    },
+    "skills": [
+      "Business Analysis",
+      "Leadership",
+      "Scrum",
+      "Stakeholder Management",
+      "Strategy"
+    ],
+    "relatedFunctionIds": [
+      "fn-01298",
+      "fn-06030",
+      "fn-04835",
+      "fn-02207",
+      "fn-01359"
+    ]
+  },
+  {
+    "id": "fn-00095",
+    "title": "Talent Acquisition Specialist",
+    "group": "HR",
+    "department": "People Operations",
+    "level": 3,
+    "employeeCount": 15,
+    "description": "Werkt zelfstandig aan complexe werkzaamheden, adviseert collega's en stakeholders en draagt verantwoordelijkheid voor een duidelijk afgebakend resultaat.",
+    "salary": {
+      "min": 3550,
+      "max": 5000
+    },
+    "skills": [
+      "Coaching",
+      "Communication",
+      "Employee Relations",
+      "Employment Law",
+      "HR Analytics",
+      "HRIS",
+      "Performance Management",
+      "Talent Management"
+    ],
+    "relatedFunctionIds": [
+      "fn-01807",
+      "fn-05197"
+    ]
+  },
+  {
+    "id": "fn-00096",
+    "title": "Senior Account Manager",
+    "group": "Sales",
+    "department": "Business Development",
+    "level": 4,
+    "employeeCount": 10,
+    "description": "Is verantwoordelijk voor complexe vraagstukken, brengt specialistische kennis in en helpt de organisatie om processen en resultaten structureel te verbeteren.",
+    "salary": {
+      "min": 4650,
+      "max": 6300
+    },
+    "skills": [
+      "Account Management",
+      "Business Development",
+      "Commercial Strategy",
+      "Consultative Selling",
+      "Negotiation"
+    ],
+    "relatedFunctionIds": [
+      "fn-00675",
+      "fn-03001"
+    ]
+  }]
