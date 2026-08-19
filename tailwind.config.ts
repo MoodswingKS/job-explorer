@@ -9,8 +9,8 @@ const config: Config = {
     extend: {
       colors: {
         canopy: {
-          DEFAULT: "#182821",
-          light: "#213328",
+          DEFAULT: "#355749",
+          light: "#517c61",
           dark: "#101B16",
         },
         paper: {
@@ -28,7 +28,7 @@ const config: Config = {
           DEFAULT: "#B4502F",
           light: "#CB6C4B",
         },
-        sage: "#92A088",
+        sage: "#9ea39a",
       },
       fontFamily: {
         display: ["Barlow", "sans-serif"],

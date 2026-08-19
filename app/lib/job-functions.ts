@@ -2,7 +2,6 @@ import { promises as fs } from "fs";
 import path from "path";
 import type { JobFunction } from "@/types/job-function";
 
-// Server-only: lives outside /public, so it's never fetchable by the browser.
 const DATA_PATH = path.join(process.cwd(), "data", "job-functions.json");
 
 export async function loadFunctions(): Promise<JobFunction[]> {
