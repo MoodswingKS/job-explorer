@@ -16,7 +16,7 @@ export default async function FunctionDetailPage({
   const related =
     fn.relatedFunctionIds.length > 0
       ? (await loadFunctions()).filter((f) =>
-          fn.relatedFunctionIds.includes(f.id)
+          fn.relatedFunctionIds.includes(f.id),
         )
       : [];
 

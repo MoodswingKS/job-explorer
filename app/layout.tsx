@@ -28,7 +28,10 @@ export default function RootLayout({
                 <Link href="/" className="transition-colors hover:text-paper">
                   Home
                 </Link>
-                <Link href="/functions" className="transition-colors hover:text-paper">
+                <Link
+                  href="/functions"
+                  className="transition-colors hover:text-paper"
+                >
                   Functions
                 </Link>
               </nav>
@@ -44,4 +47,4 @@ export default function RootLayout({
       </body>
     </html>
   );
-};
+}

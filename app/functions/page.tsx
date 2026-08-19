@@ -3,7 +3,8 @@ import FunctionsGrid from "@/components/FunctionsGrid";
 
 export const metadata: Metadata = {
   title: "Job Explorer: Functions and Details",
-  description: "A collection of all jobs to be found, to search and filter through",
+  description:
+    "A collection of all jobs to be found, to search and filter through",
 };
 
 export default function FunctionsPage() {
